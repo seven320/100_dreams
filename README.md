@@ -58,6 +58,10 @@
 
 [ ]三枚おろしできるようになる
 
+[ ]signate masterになる
+
+[ ]kaggle masterになる
+
 # done list
 ## 訪問系
 - ピラミッド見る
